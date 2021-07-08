@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title></title>
+      <title>本人书籍</title>
       <link href="2021/07/08/book/book/"/>
       <url>2021/07/08/book/book/</url>
       
-        <content type="html"><![CDATA[<p>title: 本人书籍 # 文章名称<br>date: 2021-07-08 12:20:26<br>updated: 2021-07-08 12:20:26<br>tags: [book] # 文章标籤<br>categories: [book] # 分类<br>keywords: book<br>description: book<br>top_img: <a href="http://www.oss.qcwy.org.cn/mxt/4.jpeg">http://www.oss.qcwy.org.cn/mxt/4.jpeg</a> # 【可选】文章顶部图片<br>cover: <a href="http://www.oss.qcwy.org.cn/mxt/5.jpeg#">http://www.oss.qcwy.org.cn/mxt/5.jpeg#</a> 【可选】文章缩略图(如果没有设置top_img,文章页顶部将显示缩略图，可设为false/图片地址/留空)<br>comments: true<br>copyright_info: 转载请留言,未经许可禁止转载,转载时请注明出处(必须保留作者署名及链接) #<br>sticky: 0 # 是否置顶</p><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote><p>本网站为本人学习资源网站，如你有幸能够看到，请不要传播。谢谢。</p><p>本文列出的所有书籍大部分是朋友分享的，为了方便，放到本网站上。</p><p>如有侵权，请告知，本人将以最快的速度删除。</p></blockquote><h2 id="书籍列表"><a href="#书籍列表" class="headerlink" title="书籍列表"></a>书籍列表</h2><h3 id="css"><a href="#css" class="headerlink" title="css"></a>css</h3><p><a href="http://www.oss.qcwy.org.cn/book/CSS%E9%80%89%E6%8B%A9%E5%99%A8%E4%B8%96%E7%95%8C.pdf">css选择器世界</a></p><h3 id="js"><a href="#js" class="headerlink" title="js"></a>js</h3><h3 id="html"><a href="#html" class="headerlink" title="html"></a>html</h3>]]></content>
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote><p>本网站为本人学习资源网站，如你有幸能够看到，请不要传播。谢谢。</p><p>本文列出的所有书籍大部分是朋友分享的，为了方便，放到本网站上。</p><p>如有侵权，请告知，本人将以最快的速度删除。</p></blockquote><h2 id="书籍列表"><a href="#书籍列表" class="headerlink" title="书籍列表"></a>书籍列表</h2><h3 id="css"><a href="#css" class="headerlink" title="css"></a>css</h3><p><a href="http://www.oss.qcwy.org.cn/book/CSS%E9%80%89%E6%8B%A9%E5%99%A8%E4%B8%96%E7%95%8C.pdf">css选择器世界</a></p><h3 id="js"><a href="#js" class="headerlink" title="js"></a>js</h3><h3 id="html"><a href="#html" class="headerlink" title="html"></a>html</h3>]]></content>
       
       
+      <categories>
+          
+          <category> book </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> book </tag>
+            
+        </tags>
       
     </entry>
     
